@@ -1,69 +1,73 @@
-# 👋 Hi, I'm Adoum
+# Adoum Mahamat Ali · AMA972
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9AFE&center=true&vCenter=true&width=435&lines=Cybersecurity+Analyst;DevSecOps+Engineer;SOC+Specialist;Cloud+Security+%7C+AWS)](https://git.io/typing-svg)
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/adoum-mahamat-ama-972/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:adoum.pro@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/AMA972"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-</p>
-
----
-
-### 🛡️ What I Solve
-
-I help companies **detect threats faster** and **reduce false positives** by building custom SIEM detection rules and automating incident response playbooks.
-
-> *"I don't just monitor logs — I transform raw telemetry into actionable intelligence."*
+```
+ama@keyce:~$ whoami
+> Administrateur Réseau & Sécurité · Master 1 Keyce Montpellier
+> Alternance recherchée : septembre 2026
+> Spécialité : IDS/IPS · Wazuh SIEM · Sécurité réseau
+> Stage en prod : Banque centrale (BEAC) · 6 pays · IDS Snort/Suricata
+ama@keyce:~$ █
+```
 
 ---
 
-### 🧰 Technical Arsenal
+## Ce que je fais vraiment
 
-| Category | Tools & Technologies |
-|----------|---------------------|
-| **SIEM & Detection** | Wazuh, Elastic Stack (ELK), Splunk Fundamentals |
-| **Cloud Security** | AWS (IAM, CloudTrail, GuardDuty, Security Hub) |
-| **DevSecOps** | Docker, Kubernetes, Trivy, GitHub Actions, Terraform |
-| **Scripting & Automation** | Python, Bash, PowerShell |
-| **Compliance & Frameworks** | MITRE ATT&CK, NIST CSF, ISO 27001 |
-| **OS & Networking** | Linux (Ubuntu/Debian), TCP/IP, Wireshark, Nmap |
+Déploiement et configuration de systèmes de détection d'intrusion en environnement de production.
+Analyse de logs réseau, rédaction de règles de détection, supervision de trafic.
+J'ai fait ça pour une banque centrale régionale couvrant 6 pays — pas en lab, en prod.
 
 ---
 
-### 🔥 Live Projects (Pinned Below)
+## Stack maîtrisée
 
-| Project | Description | Key Skill Demonstrated |
-|---------|-------------|------------------------|
-| **[SIEM Wazuh Lab](https://github.com/AMA972/siem-wazuh-lab)** | Full SOC environment with custom decoders, active response, and threat intelligence integration. | Detection Engineering, Log Analysis |
-| **[Adoum Portfolio](https://github.com/AMA972/adoum-portfolio)** | Modern cybersecurity portfolio with real-time threat dashboard integration. | Frontend, API Integration |
-| **[Trading Bot Pro](https://github.com/AMA972/trading-bot-pro)** | Automated trading system with risk management and backtesting engine. | Python, Algorithmic Logic |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AMA972&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMA972&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
+| Domaine | Outils |
+|---|---|
+| Détection & Sécurité | Snort, Suricata, pfSense, IDS/IPS, analyse de logs |
+| SIEM | Wazuh (lab personnel actif) |
+| Réseau | TCP/IP, VLAN, VPN, Routage, Switching, DHCP, DNS, NAT |
+| Équipements | Cisco IOS, Packet Tracer, Wireshark, Nmap |
+| Systèmes | Linux (Ubuntu/Debian), Windows Server, Active Directory, VMware |
+| Scripting | Bash, Git |
 
 ---
 
-### 📍 Currently
+## Projets
 
-- 🔭 **Active Project:** Enhancing the Wazuh SIEM lab with Suricata IDS integration
-- 🌱 **Learning:** eJPT Certification path (INE)
-- 👯 **Open to Collaborate on:** Open-source security tools, Detection-as-Code projects
-- 💬 **Ask me about:** Wazuh deployment, AWS Security Best Practices, Career transition into Cyber
+### [siem-wazuh-lab](https://github.com/AMA972/siem-wazuh-lab)
+Lab SIEM personnel avec Wazuh — ingestion de logs multi-sources, règles de corrélation, dashboards de supervision.
+Ce projet reproduit un environnement SOC réel sur VM locale.
+
+### [trading-bot-pro](https://github.com/AMA972/trading-bot-pro)
+Bot de trading algorithmique multi-exchange en Python — API REST, automatisation, gestion des ordres.
+
+### [adoum-portfolio](https://github.com/AMA972/adoum-portfolio)
+Portfolio cybersécurité développé from scratch — design terminal, radar IDS interactif, log stream simulé.
 
 ---
 
-<p align="center">
-  <i>"The quieter you become, the more you are able to hear."</i><br>
-  <b>— Ram Dass</b>
-</p>
+## Expérience terrain
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AMA972&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+**Stagiaire Sécurité Réseau & IDS — BEAC** *(mai – juil. 2025)*
+Déploiement IDS Snort/Suricata en production · réseau bancaire 6 pays · rédaction règles de détection · politique de sécurité périmétrique
+
+**Stagiaire Réseau & Infrastructure — BEAC** *(août – oct. 2024)*
+Maintenance infra réseau/télécoms en production · incidents N2 sur équipements critiques
+
+**Assistant Directeur Technique — SIA Technology Group** *(2019 – 2021)*
+Installation et sécurisation réseaux entreprises · vidéosurveillance IP
+
+---
+
+## En ce moment
+
+- Wazuh SIEM lab : intégration Suricata + dashboards personnalisés
+- Préparation Cisco CyberOps Associate
+- Actif sur TryHackMe — parcours SOC Analyst
+
+---
+
+## Contact
+
+📧 alikovmalenkov@gmail.com
+📍 Montpellier (34) · Disponible septembre 2026 · 3 sem. entreprise / 1 sem. école
